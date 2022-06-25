@@ -1,3 +1,4 @@
+#INCLUDE 'protheus.ch'
 
 User Function tipoDados()
 
