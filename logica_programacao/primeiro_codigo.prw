@@ -2,6 +2,6 @@
 
 User Function OlaMundo()
 
-MsgAlert('Ola Mundo')
+Alert('Ola Mundo', 'Primeiro código em ADVPL')
 
 RETURN
