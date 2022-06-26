@@ -1,6 +1,8 @@
 #INCLUDE 'protheus.ch'
 #INCLUDE 'parmtype.ch'
 
+//OPERADORES MATEMÁTICOS
+
 user function Operadores()
     Local nNum1 := 10
     Local nNum2 := 20
